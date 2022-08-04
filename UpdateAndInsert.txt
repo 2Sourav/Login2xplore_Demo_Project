@@ -1,0 +1,50 @@
+90937555|-31949294803161743|90942593
+/* 'insert' code below*/
+{
+    "token": "90937555|-31949294803161743|90942593",
+    "cmd": "PUT_ALL",
+    "dbName": "PeopleDB",
+    "rel": "students",
+    "jsonStr": [
+        {
+            "name": "Alex Danilyuk",
+            "email": "horrificsights@gmail.com",
+           
+
+        },
+        {
+            "name": "Young Jiangly",
+            "email": "octopus2311@gmail.com",
+           
+
+        },
+        {
+            "name": "Ripcord",
+            "email": "hostyboy@gmail.com",
+            
+
+        }
+    ]
+}
+/* 'Update' code below */
+{
+    "token": "90937555|-31949294803161743|90942593",
+    "cmd": "UPDATE",
+    "dbName": "PeopleDB",
+    "rel": "students",
+    "jsonStr": {
+       "1":{
+        
+        "mobile_number": 7098162348
+
+      },
+       "2":{
+        
+        "mobile_number": 9000876578
+      },
+       "3":{
+        
+        "mobile_number": 33723394839
+      }
+   }
+}
