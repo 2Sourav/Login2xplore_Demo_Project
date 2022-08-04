@@ -12,7 +12,8 @@ It helps developers in faster coding, in-turn reduces development cost.
 
 # Login2xplore_Demo_Project
 
-demonstration of login2<img width="960" alt="2022-08-04 (2)" src="https://user-images.githubusercontent.com/81104501/182836876-026e39f6-552d-41f5-84b9-f7b765ed2d16.png">
-xplore sample project
+demonstration of login2xplore sample project
+
+<img width="960" alt="2022-08-04 (2)" src="https://user-images.githubusercontent.com/81104501/182836876-026e39f6-552d-41f5-84b9-f7b765ed2d16.png">
 
 Here the Insert and Update operations were demonstrated
